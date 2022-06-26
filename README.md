@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @LibertyCap10
-- 👀 I’m interested in creating software that has a positive impact on our global society. 
+👋 Hi, I’m @LibertyCap10
