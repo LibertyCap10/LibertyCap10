@@ -1,4 +1,4 @@
-👋 Hi, I’m @LibertyCap10
+👋 Hi, my name is Rhett
 
 my projects: 
 
