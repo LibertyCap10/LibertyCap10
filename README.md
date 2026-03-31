@@ -3,8 +3,7 @@
 my projects: 
 
 rwm.bio  
-orient.earth  
-breathe.diy  
-watchwithme.online
+favorites.app
+fiberosp.com
 
 x.com/rwm_bio
