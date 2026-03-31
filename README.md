@@ -3,7 +3,7 @@
 my projects: 
 
 rwm.bio  
-favorites.app
-fiberosp.com
+favorites.app  
+fiberosp.com  
 
 x.com/rwm_bio
